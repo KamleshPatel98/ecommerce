@@ -1,0 +1,50 @@
+#navbar , footer
+{
+    background-color: rgba(12, 9, 51, 0.908);
+}
+#nav:hover{
+    background-color : rgb(103, 79, 12);
+    border:1px solid white;
+    border-radius: 4px;
+}
+
+
+#trend, #about
+{
+    border:1px solid black;
+    border-radius: 25px;
+    background-color: rgb(87, 42, 128);
+}
+
+#details
+{
+    background-color: rgb(178, 154, 231);
+}
+
+#a
+{
+    text-decoration: none;
+}
+
+#category
+{
+    background-color: rgb(191, 185, 178);
+    border-radius: 4px;
+}
+
+#slug
+{
+    background-color: rgb(191, 185, 178);
+    border-radius: 4px;
+}
+
+#form
+{
+    background-color: rgb(178, 154, 231);
+    border-radius: 4px;
+}
+
+#input
+{
+    border-radius:30px;
+}
